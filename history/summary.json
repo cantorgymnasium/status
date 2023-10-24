@@ -365,19 +365,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmin.cantorgymnasium.de.ico",
     "slug": "webmin",
     "status": "up",
-    "uptime": "6.36%",
-    "uptimeDay": "6.36%",
-    "uptimeWeek": "6.36%",
-    "uptimeMonth": "6.36%",
-    "uptimeYear": "6.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2758,
     "timeDay": 2758,
     "timeWeek": 2758,
     "timeMonth": 2758,
     "timeYear": 2758,
-    "dailyMinutesDown": {
-      "2023-10-24": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DBGate",
@@ -385,18 +383,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.cantorgymnasium.de.ico",
     "slug": "db-gate",
     "status": "down",
-    "uptime": "0.26%",
-    "uptimeDay": "0.26%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 455,
     "timeDay": 455,
     "timeWeek": 455,
     "timeMonth": 455,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2023-10-24": 5
+      "2023-10-24": 6
     }
   },
   {
