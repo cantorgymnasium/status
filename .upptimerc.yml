@@ -44,6 +44,7 @@ sites:
     url: https://dash.cantorgymnasium.de/
   - name: Webmin
     url: https://webmin.cantorgymnasium.de:10000/
+    __dangerous__insecure: true
   - name: DBGate
     url: https://db.cantorgymnasium.de/
   - name: Schülerzeitung
