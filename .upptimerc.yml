@@ -6,7 +6,7 @@ sites:
     url: https://git.cantorgymnasium.de/
   - name: mailcow UI
     url: https://mail.cantorgymnasium.de/
-  - name: SOGo Webmain
+  - name: SOGo Webmail
     url: https://mail.cantorgymnasium.de/SOGo/
   - name: Seafile
     url: https://cloud.cantorgymnasium.de/
