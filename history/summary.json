@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 952,
-    "timeWeek": 952,
-    "timeMonth": 952,
-    "timeYear": 952,
+    "time": 972,
+    "timeDay": 972,
+    "timeWeek": 972,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {}
   },
   {
@@ -365,18 +365,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmin.cantorgymnasium.de.ico",
     "slug": "webmin",
     "status": "down",
-    "uptime": "6.12%",
-    "uptimeDay": "6.12%",
-    "uptimeWeek": "6.12%",
-    "uptimeMonth": "6.12%",
-    "uptimeYear": "6.12%",
+    "uptime": "3.46%",
+    "uptimeDay": "3.46%",
+    "uptimeWeek": "3.46%",
+    "uptimeMonth": "3.46%",
+    "uptimeYear": "3.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 0
+      "2023-10-24": 1
     }
   },
   {
@@ -385,18 +385,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.cantorgymnasium.de.ico",
     "slug": "db-gate",
     "status": "down",
-    "uptime": "5.43%",
-    "uptimeDay": "5.43%",
-    "uptimeWeek": "5.43%",
-    "uptimeMonth": "5.43%",
-    "uptimeYear": "5.43%",
+    "uptime": "2.64%",
+    "uptimeDay": "2.64%",
+    "uptimeWeek": "2.64%",
+    "uptimeMonth": "2.64%",
+    "uptimeYear": "2.64%",
     "time": 452,
     "timeDay": 452,
     "timeWeek": 452,
     "timeMonth": 452,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2023-10-24": 0
+      "2023-10-24": 1
     }
   },
   {
