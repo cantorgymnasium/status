@@ -1,7 +1,7 @@
 url: https://bibo.cantorgymnasium.de/
-status: up
-code: 200
-responseTime: 1024
-lastUpdated: 2023-11-08T23:06:20.010Z
+status: down
+code: 502
+responseTime: 8417
+lastUpdated: 2023-11-09T17:52:09.330Z
 startTime: 2023-10-24T13:16:26.362Z
 generator: Upptime <https://github.com/upptime/upptime>
