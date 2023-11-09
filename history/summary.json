@@ -184,18 +184,20 @@
     "url": "https://bibo.cantorgymnasium.de/",
     "icon": "https://icons.duckduckgo.com/ip3/bibo.cantorgymnasium.de.ico",
     "slug": "koha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1871,
-    "timeDay": 1024,
-    "timeWeek": 1635,
-    "timeMonth": 1871,
-    "timeYear": 1871,
-    "dailyMinutesDown": {}
+    "time": 2168,
+    "timeDay": 4721,
+    "timeWeek": 2482,
+    "timeMonth": 2168,
+    "timeYear": 2168,
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   },
   {
     "name": "Koha (Intra)",
@@ -394,7 +396,7 @@
     "timeMonth": 673,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-11-09": 48,
+      "2023-11-09": 1073,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
