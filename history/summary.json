@@ -294,9 +294,9 @@
     "url": "http://docker.cantorgymnasium.de:9000/",
     "icon": "https://icons.duckduckgo.com/ip3/docker.cantorgymnasium.de.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -305,7 +305,9 @@
     "timeWeek": 427,
     "timeMonth": 436,
     "timeYear": 436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-13": 0
+    }
   },
   {
     "name": "Snipe-IT",
@@ -396,7 +398,7 @@
     "timeMonth": 630,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2023-11-13": 50,
+      "2023-11-13": 84,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
