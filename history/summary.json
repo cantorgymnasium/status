@@ -184,18 +184,19 @@
     "url": "https://bibo.cantorgymnasium.de/",
     "icon": "https://icons.duckduckgo.com/ip3/bibo.cantorgymnasium.de.ico",
     "slug": "koha",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 2583,
-    "timeDay": 870,
-    "timeWeek": 3744,
-    "timeMonth": 2583,
-    "timeYear": 2583,
+    "time": 2766,
+    "timeDay": 4656,
+    "timeWeek": 4080,
+    "timeMonth": 2766,
+    "timeYear": 2766,
     "dailyMinutesDown": {
+      "2023-11-13": 1,
       "2023-11-09": 38
     }
   },
@@ -204,18 +205,20 @@
     "url": "https://bibo-intra.cantorgymnasium.de/",
     "icon": "https://icons.duckduckgo.com/ip3/bibo-intra.cantorgymnasium.de.ico",
     "slug": "koha-intra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1246,
-    "timeDay": 690,
-    "timeWeek": 1373,
-    "timeMonth": 1246,
-    "timeYear": 1246,
-    "dailyMinutesDown": {}
+    "time": 1547,
+    "timeDay": 4583,
+    "timeWeek": 2261,
+    "timeMonth": 1547,
+    "timeYear": 1547,
+    "dailyMinutesDown": {
+      "2023-11-13": 1
+    }
   },
   {
     "name": "Matomo",
@@ -295,18 +298,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker.cantorgymnasium.de.ico",
     "slug": "portainer",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.42%",
+    "uptimeDay": "27.66%",
+    "uptimeWeek": "89.67%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "96.42%",
     "time": 436,
     "timeDay": 299,
     "timeWeek": 427,
     "timeMonth": 436,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2023-11-13": 0
+      "2023-11-13": 1042
     }
   },
   {
@@ -398,7 +401,7 @@
     "timeMonth": 630,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2023-11-13": 84,
+      "2023-11-13": 1125,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
