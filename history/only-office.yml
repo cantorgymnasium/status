@@ -1,7 +1,7 @@
 url: https://docs.cantorgymnasium.de/
-status: up
-code: 200
-responseTime: 648
-lastUpdated: 2023-11-18T23:05:44.082Z
+status: down
+code: 502
+responseTime: 324
+lastUpdated: 2023-11-19T19:51:18.220Z
 startTime: 2023-10-24T13:16:32.521Z
 generator: Upptime <https://github.com/upptime/upptime>
