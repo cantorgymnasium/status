@@ -1,7 +1,7 @@
 url: https://mail.cantorgymnasium.de/SOGo/
-status: up
-code: 200
-responseTime: 122
-lastUpdated: 2023-11-20T23:06:26.125Z
+status: down
+code: 502
+responseTime: 208
+lastUpdated: 2023-11-21T20:35:40.820Z
 startTime: 2023-10-24T13:23:38.522Z
 generator: Upptime <https://github.com/upptime/upptime>
