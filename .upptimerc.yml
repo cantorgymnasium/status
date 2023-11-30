@@ -24,12 +24,12 @@ sites:
     url: https://id.cantorgymnasium.de/
   - name: Koha
     url: https://bibo.cantorgymnasium.de/
+    maxResponseTime: 60000
   - name: Koha (Intra)
     url: https://bibo-intra.cantorgymnasium.de/
+    maxResponseTime: 60000
   - name: Matomo
     url: https://analytics.cantorgymnasium.de/
-  - name: NGINX Proxy Manager
-    url: https://npm.cantorgymnasium.de/
   - name: OnlyOffice
     url: https://docs.cantorgymnasium.de/
   - name: PHP/Formtools
@@ -72,8 +72,6 @@ status-website:
     - title: GCG.Website
       href: https://cantorgymnasium.de/
     - title: Portainer
-      href: https://docker.cantorgymnasium.de
-    - title: NPM
-      href: https://npm.cantorgymnasium.de/
+      href: https://docker.cantorgymnasium.de/
     - title: Webmin
-      href: https://webmin.cantorgymnasium.de/
+      href: https://webmin.cantorgymnasium.de:10000/
