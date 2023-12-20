@@ -8,7 +8,7 @@ sites:
     url: https://mail.cantorgymnasium.de/
   - name: SOGo Webmail
     url: https://mail.cantorgymnasium.de/SOGo/
-  - name: Seafile
+  - name: Nextcloud
     url: https://cloud.cantorgymnasium.de/
   - name: GCG.Website
     url: https://cantorgymnasium.de/
@@ -24,10 +24,8 @@ sites:
     url: https://id.cantorgymnasium.de/
   - name: Koha
     url: https://bibo.cantorgymnasium.de/
-    maxResponseTime: 60000
   - name: Koha (Intra)
     url: https://bibo-intra.cantorgymnasium.de/
-    maxResponseTime: 60000
   - name: Matomo
     url: https://analytics.cantorgymnasium.de/
   - name: OnlyOffice
