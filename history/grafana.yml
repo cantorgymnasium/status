@@ -1,7 +1,7 @@
 url: https://grafana.cantorgymnasium.de/
-status: up
-code: 200
-responseTime: 565
-lastUpdated: 2023-12-25T23:06:41.136Z
+status: down
+code: 502
+responseTime: 678
+lastUpdated: 2023-12-26T10:41:11.684Z
 startTime: 2023-10-24T13:16:22.653Z
 generator: Upptime <https://github.com/upptime/upptime>
