@@ -1,7 +1,7 @@
 url: https://analytics.cantorgymnasium.de/
-status: up
-code: 200
-responseTime: 878
-lastUpdated: 2023-12-25T23:06:45.783Z
+status: down
+code: 502
+responseTime: 752
+lastUpdated: 2023-12-26T10:41:26.335Z
 startTime: 2023-10-24T13:16:30.005Z
 generator: Upptime <https://github.com/upptime/upptime>
