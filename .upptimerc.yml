@@ -10,6 +10,8 @@ sites:
     url: https://mail.cantorgymnasium.de/SOGo/
   - name: Nextcloud
     url: https://cloud.cantorgymnasium.de/
+  - name: Nextcloud AIO Interface
+    url: https://nc-admin.cantorgymnasium.de/
   - name: GCG.Website
     url: https://cantorgymnasium.de/
   - name: GCG.Website (Test)
@@ -36,6 +38,8 @@ sites:
     url: http://docker.cantorgymnasium.de:9000/
   - name: Snipe-IT
     url: https://snipe.cantorgymnasium.de/
+  - name: GLPI
+    url: https://glpi.cantorgymnasium.de/
   - name: WikiJS
     url: https://wiki.cantorgymnasium.de/
   - name: Homer Dashboard
@@ -54,7 +58,7 @@ sites:
 
 assignees:
   - denyskon
-  
+  - Tramus00
 
 status-website:
   cname: status.cantorgymnasium.de
