@@ -1,7 +1,7 @@
 url: https://snipe.cantorgymnasium.de/
-status: up
-code: 200
-responseTime: 1559
-lastUpdated: 2023-12-25T23:06:49.578Z
+status: down
+code: 502
+responseTime: 499
+lastUpdated: 2023-12-26T10:41:39.202Z
 startTime: 2023-10-24T13:16:36.028Z
 generator: Upptime <https://github.com/upptime/upptime>
