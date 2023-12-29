@@ -36,8 +36,6 @@ sites:
     url: https://php.cantorgymnasium.de/formtools/
   - name: Portainer
     url: http://docker.cantorgymnasium.de:9000/
-  - name: Snipe-IT
-    url: https://snipe.cantorgymnasium.de/
   - name: GLPI
     url: https://glpi.cantorgymnasium.de/
   - name: WikiJS
