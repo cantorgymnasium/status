@@ -32,8 +32,8 @@ sites:
     url: https://analytics.cantorgymnasium.de/
   - name: OnlyOffice
     url: https://docs.cantorgymnasium.de/
-  - name: PHP/Formtools
-    url: https://php.cantorgymnasium.de/formtools/
+  - name: POSTalion
+    url: https://forms.cantorgymnasium.de/status
   - name: Portainer
     url: http://docker.cantorgymnasium.de:9000/
   - name: GLPI
