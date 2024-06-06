@@ -1,7 +1,7 @@
 url: https://forms.cantorgymnasium.de/status
-status: up
-code: 200
-responseTime: 509
-lastUpdated: 2024-06-05T23:08:37.974Z
+status: down
+code: 502
+responseTime: 852
+lastUpdated: 2024-06-06T04:09:30.649Z
 startTime: 2024-01-06T11:39:41.679Z
 generator: Upptime <https://github.com/upptime/upptime>
