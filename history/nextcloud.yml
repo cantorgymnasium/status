@@ -1,7 +1,7 @@
 url: https://cloud.cantorgymnasium.de/
-status: up
-code: 200
-responseTime: 942
-lastUpdated: 2024-12-29T23:07:25.764Z
+status: down
+code: 502
+responseTime: 413
+lastUpdated: 2024-12-30T04:28:16.001Z
 startTime: 2023-12-20T18:29:48.368Z
 generator: Upptime <https://github.com/upptime/upptime>
