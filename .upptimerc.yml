@@ -24,10 +24,6 @@ sites:
     url: https://pads.cantorgymnasium.de/
   - name: Keycloak
     url: https://id.cantorgymnasium.de/
-  - name: Koha
-    url: https://bibo.cantorgymnasium.de/
-  - name: Koha (Intra)
-    url: https://bibo-intra.cantorgymnasium.de/
   - name: Matomo
     url: https://analytics.cantorgymnasium.de/
   - name: POSTalion
