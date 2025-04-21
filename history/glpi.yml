@@ -1,7 +1,7 @@
 url: https://glpi.cantorgymnasium.de/index.php?noCAS=1
-status: down
-code: 400
-responseTime: 792
-lastUpdated: 2025-04-21T21:23:47.178Z
+status: up
+code: 200
+responseTime: 1064
+lastUpdated: 2025-04-21T21:38:56.245Z
 startTime: 2023-12-26T18:43:29.916Z
 generator: Upptime <https://github.com/upptime/upptime>
