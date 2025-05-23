@@ -1,7 +1,7 @@
 url: https://glpi.cantorgymnasium.de/index.php?error=1
-status: down
-code: 400
-responseTime: 1083
-lastUpdated: 2025-05-23T08:56:24.102Z
+status: up
+code: 200
+responseTime: 1086
+lastUpdated: 2025-05-23T20:29:28.250Z
 startTime: 2023-12-26T18:43:29.916Z
 generator: Upptime <https://github.com/upptime/upptime>
