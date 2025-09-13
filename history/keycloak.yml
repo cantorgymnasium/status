@@ -1,7 +1,7 @@
 url: https://id.cantorgymnasium.de/
-status: up
-code: 200
-responseTime: 847
-lastUpdated: 2025-09-12T23:08:21.080Z
+status: down
+code: 502
+responseTime: 397
+lastUpdated: 2025-09-13T03:01:41.722Z
 startTime: 2023-10-24T13:16:25.242Z
 generator: Upptime <https://github.com/upptime/upptime>
