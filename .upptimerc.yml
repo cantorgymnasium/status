@@ -30,8 +30,8 @@ sites:
     url: https://forms.cantorgymnasium.de/status
   - name: Portainer
     url: http://docker.cantorgymnasium.de:9000/
-  - name: GLPI
-    url: https://glpi.cantorgymnasium.de/index.php?error=1
+  #- name: GLPI
+  #  url: https://glpi.cantorgymnasium.de/index.php?error=1
   - name: WikiJS
     url: https://wiki.cantorgymnasium.de/
   - name: Homer Dashboard
