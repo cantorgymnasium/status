@@ -30,8 +30,6 @@ sites:
     url: https://forms.cantorgymnasium.de/status
   - name: Portainer
     url: http://docker.cantorgymnasium.de:9000/
-  #- name: GLPI
-  #  url: https://glpi.cantorgymnasium.de/index.php?error=1
   - name: WikiJS
     url: https://wiki.cantorgymnasium.de/
   - name: Homer Dashboard
@@ -41,10 +39,6 @@ sites:
     __dangerous__insecure: true
   - name: DBGate
     url: https://db.cantorgymnasium.de/
-  - name: Schülerzeitung
-    url: https://schuelerzeitung-gcg.de/
-  - name: Schuelerzeitung (Test)
-    url: https://test.schuelerzeitung-gcg.de/
   - name: Marzipano
     url: https://vr.cantorgymnasium.de/
 
