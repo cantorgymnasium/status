@@ -32,16 +32,16 @@
     "url": "https://mail.cantorgymnasium.de/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.cantorgymnasium.de.ico",
     "slug": "mailcow-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 759,
-    "timeDay": 698,
-    "timeWeek": 730,
-    "timeMonth": 703,
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.89%",
+    "time": 758,
+    "timeDay": 661,
+    "timeWeek": 712,
+    "timeMonth": 700,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2025-09-13": 27,
@@ -56,7 +56,7 @@
       "2026-01-01": 53,
       "2026-05-14": 70,
       "2026-06-04": 19,
-      "2026-07-23": 1
+      "2026-07-23": 79
     }
   },
   {
@@ -64,17 +64,17 @@
     "url": "https://mail.cantorgymnasium.de/SOGo/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.cantorgymnasium.de.ico",
     "slug": "so-go-webmail",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 169,
-    "timeDay": 459,
-    "timeWeek": 407,
-    "timeMonth": 361,
-    "timeYear": 181,
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.91%",
+    "time": 170,
+    "timeDay": 401,
+    "timeWeek": 392,
+    "timeMonth": 358,
+    "timeYear": 182,
     "dailyMinutesDown": {
       "2025-09-13": 27,
       "2025-09-23": 35,
@@ -86,7 +86,7 @@
       "2026-01-01": 53,
       "2026-05-14": 70,
       "2026-06-04": 19,
-      "2026-07-23": 1
+      "2026-07-23": 79
     }
   },
   {
@@ -334,17 +334,17 @@
     "url": "https://forms.cantorgymnasium.de/status",
     "icon": "https://icons.duckduckgo.com/ip3/forms.cantorgymnasium.de.ico",
     "slug": "pos-talion",
-    "status": "down",
-    "uptime": "96.26%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "90.87%",
+    "status": "up",
+    "uptime": "96.25%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "90.85%",
     "time": 456,
-    "timeDay": 2050,
-    "timeWeek": 881,
-    "timeMonth": 511,
-    "timeYear": 460,
+    "timeDay": 1472,
+    "timeWeek": 811,
+    "timeMonth": 505,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2025-10-29": 35,
       "2025-11-23": 39,
@@ -387,7 +387,7 @@
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 471,
-      "2026-07-23": 1
+      "2026-07-23": 79
     }
   },
   {
