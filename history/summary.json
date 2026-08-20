@@ -32,16 +32,16 @@
     "url": "https://mail.cantorgymnasium.de/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.cantorgymnasium.de.ico",
     "slug": "mailcow-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.89%",
     "time": 755,
-    "timeDay": 563,
-    "timeWeek": 616,
-    "timeMonth": 727,
+    "timeDay": 635,
+    "timeWeek": 634,
+    "timeMonth": 728,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2025-09-13": 27,
@@ -57,7 +57,7 @@
       "2026-05-14": 70,
       "2026-06-04": 19,
       "2026-07-23": 79,
-      "2026-08-20": 1
+      "2026-08-20": 31
     }
   },
   {
@@ -65,17 +65,17 @@
     "url": "https://mail.cantorgymnasium.de/SOGo/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.cantorgymnasium.de.ico",
     "slug": "so-go-webmail",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.91%",
     "time": 185,
-    "timeDay": 366,
-    "timeWeek": 324,
-    "timeMonth": 378,
-    "timeYear": 200,
+    "timeDay": 367,
+    "timeWeek": 329,
+    "timeMonth": 377,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-09-13": 27,
       "2025-09-23": 35,
@@ -88,7 +88,7 @@
       "2026-05-14": 70,
       "2026-06-04": 19,
       "2026-07-23": 79,
-      "2026-08-20": 0
+      "2026-08-20": 31
     }
   },
   {
