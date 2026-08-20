@@ -94,17 +94,17 @@
     "url": "https://cloud.cantorgymnasium.de/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.cantorgymnasium.de.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "96.88%",
+    "uptimeDay": "97.15%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.61%",
-    "time": 1004,
-    "timeDay": 1142,
-    "timeWeek": 957,
-    "timeMonth": 1145,
-    "timeYear": 1011,
+    "time": 1002,
+    "timeDay": 1104,
+    "timeWeek": 913,
+    "timeMonth": 1125,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2025-09-13": 27,
       "2025-09-23": 35,
@@ -126,7 +126,8 @@
       "2026-08-01": 657,
       "2026-08-17": 51,
       "2026-08-18": 43,
-      "2026-08-19": 45
+      "2026-08-19": 45,
+      "2026-08-20": 0
     }
   },
   {
