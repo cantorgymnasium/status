@@ -337,16 +337,16 @@
     "url": "https://forms.cantorgymnasium.de/status",
     "icon": "https://icons.duckduckgo.com/ip3/forms.cantorgymnasium.de.ico",
     "slug": "pos-talion",
-    "status": "down",
+    "status": "up",
     "uptime": "96.54%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "90.85%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "90.84%",
     "time": 460,
-    "timeDay": 1867,
-    "timeWeek": 824,
-    "timeMonth": 518,
+    "timeDay": 1401,
+    "timeWeek": 784,
+    "timeMonth": 516,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2025-10-29": 35,
@@ -391,7 +391,7 @@
       "2026-05-13": 1440,
       "2026-05-12": 471,
       "2026-07-23": 79,
-      "2026-10-09": 1
+      "2026-10-09": 51
     }
   },
   {
