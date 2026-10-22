@@ -11,7 +11,7 @@ sites:
   - name: Nextcloud
     url: https://cloud.cantorgymnasium.de/
   - name: Nextcloud AIO Interface
-    url: https://nc-admin.cantorgymnasium.de/
+    url: https://nc-admin.cantorgymnasium.de/robots.txt
   - name: GCG.Website
     url: https://cantorgymnasium.de/
   - name: GCG.Website (Test)
