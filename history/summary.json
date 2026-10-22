@@ -137,17 +137,17 @@
     "url": "https://nc-admin.cantorgymnasium.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nc-admin.cantorgymnasium.de.ico",
     "slug": "nextcloud-aio-interface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 771,
-    "timeDay": 1094,
-    "timeWeek": 843,
-    "timeMonth": 878,
-    "timeYear": 793,
+    "time": 770,
+    "timeDay": 730,
+    "timeWeek": 784,
+    "timeMonth": 862,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2025-11-11": 824,
       "2025-11-23": 39,
@@ -156,7 +156,8 @@
       "2025-12-13": 36,
       "2025-12-28": 51,
       "2026-01-01": 53,
-      "2026-03-06": 48
+      "2026-03-06": 48,
+      "2026-10-22": 1
     }
   },
   {
