@@ -14,7 +14,7 @@
     "timeDay": 1832,
     "timeWeek": 1655,
     "timeMonth": 1493,
-    "timeYear": 1436,
+    "timeYear": 1437,
     "dailyMinutesDown": {
       "2025-12-08": 41,
       "2025-12-13": 36,
@@ -41,9 +41,8 @@
     "timeDay": 1041,
     "timeWeek": 875,
     "timeMonth": 757,
-    "timeYear": 748,
+    "timeYear": 747,
     "dailyMinutesDown": {
-      "2025-11-28": 16,
       "2025-12-08": 41,
       "2025-12-13": 36,
       "2025-12-28": 51,
@@ -73,7 +72,6 @@
     "timeMonth": 372,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-11-28": 16,
       "2025-12-08": 41,
       "2025-12-13": 36,
       "2025-12-28": 51,
@@ -143,7 +141,6 @@
     "timeMonth": 481,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2025-11-28": 217,
       "2025-12-08": 41,
       "2025-12-13": 36,
       "2025-12-28": 51,
@@ -250,17 +247,17 @@
     "url": "https://pads.cantorgymnasium.de/",
     "icon": "https://icons.duckduckgo.com/ip3/pads.cantorgymnasium.de.ico",
     "slug": "hedge-doc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "89.21%",
     "uptimeYear": "99.05%",
     "time": 652,
-    "timeDay": 694,
-    "timeWeek": 605,
-    "timeMonth": 974,
-    "timeYear": 669,
+    "timeDay": 529,
+    "timeWeek": 575,
+    "timeMonth": 956,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2025-12-08": 42,
       "2025-12-13": 36,
@@ -270,7 +267,8 @@
       "2026-11-08": 532,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
-      "2026-11-05": 1316
+      "2026-11-05": 1316,
+      "2026-11-28": 1
     }
   },
   {
@@ -288,7 +286,7 @@
     "timeDay": 1617,
     "timeWeek": 1342,
     "timeMonth": 1201,
-    "timeYear": 981,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2025-12-08": 42,
       "2025-12-13": 36,
@@ -312,7 +310,7 @@
     "timeDay": 1594,
     "timeWeek": 1140,
     "timeMonth": 1062,
-    "timeYear": 1010,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-12-08": 42,
       "2025-12-13": 36,
@@ -337,7 +335,6 @@
     "timeMonth": 427,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-11-28": 217,
       "2025-12-08": 42,
       "2025-12-13": 36,
       "2025-12-28": 51,
